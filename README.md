@@ -1,4 +1,4 @@
-# Student Management Dashboard
+# Students Table
 
 A React-based dashboard application for managing student records. The application allows users to add, edit, delete, search, and export student data through a clean and responsive user interface.
 
