@@ -46,7 +46,7 @@ src
 
 ## Live Demo
 
-https://students-table-react-rouge.vercel.app
+https://students-table-delta.vercel.app/
 
 ## Future Improvements
 
